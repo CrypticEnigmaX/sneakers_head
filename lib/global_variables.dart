@@ -1,0 +1,38 @@
+final List products = [
+  {
+    'id': 1,
+    'company': 'Nike',
+    'title': 'Men\'s Nike Sneakers',
+    'model': 'Nike Air Max Dn8',
+    'price': 249.0,
+    'sizes': [8, 9, 10, 11],
+    'imageURL': 'assests/images/Nike Air Max Dn8.png',
+  },
+  {
+    'id': 2,
+    'company': 'Nike',
+    'title': 'Men\'s Nike Sneakers',
+    'model': 'Nike Vaporfly 4',
+    'price': 249.0,
+    'sizes': [8, 9, 10, 11],
+    'imageURL': 'assests/images/Nike Vaporfly 4.png',
+  },
+  {
+    'id': 3,
+    'company': 'Addidas',
+    'title': 'Men\'s Addidas Sneakers',
+    'model': 'Superstar II Shoes',
+    'price': 149.0,
+    'sizes': [8, 9, 10, 11],
+    'imageURL': 'assests/images/Superstar II Shoes.png',
+  },
+  {
+    'id': 4,
+    'company': 'Addidas',
+    'title': 'Men\'s Addidas Sneakers',
+    'model': 'GenYy Sneaker Pro M',
+    'price': 149.0,
+    'sizes': [8, 9, 10, 11],
+    'imageURL': 'assests/images/GenYy Sneaker Pro M.png',
+  },
+];
