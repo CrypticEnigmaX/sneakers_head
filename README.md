@@ -1,16 +1,41 @@
-# shoping_app
+# Sneakers Head
 
-A new Flutter project.
+## Introduction
+This Flutter-based sneakers app allows users to browse products, add them to a cart, and manage their shopping experience. The app is built with a clean and responsive UI, leveraging Provider for state management.
 
-## Getting Started
+## Features
+- **Product Listing**: Browse a list of products with details like name, price, and image.
+- **Product Details**: View detailed information about a product, including available sizes and price.
+- **Add to Cart**: Add products to the cart with a selected size.
+- **Cart Management**: View and remove items from the cart.
+- **Responsive Design**: Optimized for different screen sizes.
+- **State Management**: Uses Provider for managing the cart state.
 
-This project is a starting point for a Flutter application.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter-shopping-app.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd flutter-shopping-app
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- **Frontend**: Flutter, Dart
+- **State Management**: Provider
+- **UI Components**: Material Design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributing
+We welcome contributions! Please fork the repository and submit a pull request.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the MIT License.
